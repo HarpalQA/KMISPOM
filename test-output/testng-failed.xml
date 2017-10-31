@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Failed suite [Suite]" parallel="classes">
+  <test name="Home and Products(failed)" parallel="classes">
+    <classes>
+      <class name="testcases.VerifyProductsPage">
+        <methods>
+          <include name="tearDown"/>
+          <include name="closebrowser"/>
+          <include name="setUP"/>
+        </methods>
+      </class> <!-- testcases.VerifyProductsPage -->
+      <class name="testcases.VerifyHomePage">
+        <methods>
+          <include name="tearDown"/>
+          <include name="ClickKMIS_IMG"/>
+          <include name="closebrowser"/>
+          <include name="setUP"/>
+        </methods>
+      </class> <!-- testcases.VerifyHomePage -->
+    </classes>
+  </test> <!-- Home and Products(failed) -->
+</suite> <!-- Failed suite [Suite] -->

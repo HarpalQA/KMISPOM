@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="true" thread-count = "5">
+ <suite-files>
+ <suite-file path="Claimandfooter.xml"></suite-file>  
+ <suite-file path="homeandproducts.xml"></suite-file>  
+ </suite-files>
+    
+    
+</suite> <!-- Suite -->

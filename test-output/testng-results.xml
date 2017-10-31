@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="44" passed="44">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="0" started-at="2017-10-31T17:53:05Z" finished-at="2017-10-31T17:53:05Z">
+    <groups>
+    </groups>
+  </suite> <!-- Suite -->
+  <suite name="Suite1" duration-ms="35760" started-at="2017-10-31T17:50:16Z" finished-at="2017-10-31T17:50:52Z">
+    <groups>
+    </groups>
+    <test name="Claim and Footer" duration-ms="35760" started-at="2017-10-31T17:50:16Z" finished-at="2017-10-31T17:50:52Z">
+      <class name="testcases.VerifyFooterPage">
+        <test-method status="PASS" signature="Scrolltofooter()[pri:0, instance:testcases.VerifyFooterPage@5e025e70]" name="Scrolltofooter" duration-ms="2196" started-at="2017-10-31T10:50:39Z" description="This method will scroll down the page to the footer" finished-at="2017-10-31T10:50:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scrolltofooter -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyFooterPage@5e025e70]" name="tearDown" is-config="true" duration-ms="348" started-at="2017-10-31T10:50:41Z" finished-at="2017-10-31T10:50:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Scrolltofooter status=SUCCESS method=VerifyFooterPage.Scrolltofooter()[pri:0, instance:testcases.VerifyFooterPage@5e025e70] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickHankeyInvestment()[pri:0, instance:testcases.VerifyFooterPage@5e025e70]" name="ClickHankeyInvestment" duration-ms="81" started-at="2017-10-31T10:50:41Z" description="This method will click on Hankey Investment Company" finished-at="2017-10-31T10:50:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickHankeyInvestment -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyFooterPage@5e025e70]" name="tearDown" is-config="true" duration-ms="416" started-at="2017-10-31T10:50:41Z" finished-at="2017-10-31T10:50:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickHankeyInvestment status=SUCCESS method=VerifyFooterPage.ClickHankeyInvestment()[pri:0, instance:testcases.VerifyFooterPage@5e025e70] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickHankeyCapital()[pri:0, instance:testcases.VerifyFooterPage@5e025e70]" name="ClickHankeyCapital" duration-ms="209" started-at="2017-10-31T10:50:42Z" description="This method will click on Hankey Capital" finished-at="2017-10-31T10:50:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickHankeyCapital -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyFooterPage@5e025e70]" name="tearDown" is-config="true" duration-ms="348" started-at="2017-10-31T10:50:42Z" finished-at="2017-10-31T10:50:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickHankeyCapital status=SUCCESS method=VerifyFooterPage.ClickHankeyCapital()[pri:0, instance:testcases.VerifyFooterPage@5e025e70] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickWestlakeFinService()[pri:0, instance:testcases.VerifyFooterPage@5e025e70]" name="ClickWestlakeFinService" duration-ms="633" started-at="2017-10-31T10:50:42Z" description="This method will click on Westlake Financial Services" finished-at="2017-10-31T10:50:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickWestlakeFinService -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyFooterPage@5e025e70]" name="tearDown" is-config="true" duration-ms="591" started-at="2017-10-31T10:50:43Z" finished-at="2017-10-31T10:50:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickWestlakeFinService status=SUCCESS method=VerifyFooterPage.ClickWestlakeFinService()[pri:0, instance:testcases.VerifyFooterPage@5e025e70] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickKnightInsuranceGroup()[pri:0, instance:testcases.VerifyFooterPage@5e025e70]" name="ClickKnightInsuranceGroup" duration-ms="533" started-at="2017-10-31T10:50:44Z" description="This method will click on Knight Insurance Group" finished-at="2017-10-31T10:50:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickKnightInsuranceGroup -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyFooterPage@5e025e70]" name="tearDown" is-config="true" duration-ms="515" started-at="2017-10-31T10:50:44Z" finished-at="2017-10-31T10:50:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickKnightInsuranceGroup status=SUCCESS method=VerifyFooterPage.ClickKnightInsuranceGroup()[pri:0, instance:testcases.VerifyFooterPage@5e025e70] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickNowcom()[pri:0, instance:testcases.VerifyFooterPage@5e025e70]" name="ClickNowcom" duration-ms="930" started-at="2017-10-31T10:50:45Z" description="This method will click on Nowcom" finished-at="2017-10-31T10:50:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickNowcom -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyFooterPage@5e025e70]" name="tearDown" is-config="true" duration-ms="384" started-at="2017-10-31T10:50:46Z" finished-at="2017-10-31T10:50:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickNowcom status=SUCCESS method=VerifyFooterPage.ClickNowcom()[pri:0, instance:testcases.VerifyFooterPage@5e025e70] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickNorthHollywoodToyota()[pri:0, instance:testcases.VerifyFooterPage@5e025e70]" name="ClickNorthHollywoodToyota" duration-ms="592" started-at="2017-10-31T10:50:46Z" description="This method will click on North Hollywood Toyota" finished-at="2017-10-31T10:50:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickNorthHollywoodToyota -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyFooterPage@5e025e70]" name="tearDown" is-config="true" duration-ms="416" started-at="2017-10-31T10:50:47Z" finished-at="2017-10-31T10:50:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickNorthHollywoodToyota status=SUCCESS method=VerifyFooterPage.ClickNorthHollywoodToyota()[pri:0, instance:testcases.VerifyFooterPage@5e025e70] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickMCar()[pri:0, instance:testcases.VerifyFooterPage@5e025e70]" name="ClickMCar" duration-ms="309" started-at="2017-10-31T10:50:47Z" description="This method will click on Miday Car" finished-at="2017-10-31T10:50:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickMCar -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyFooterPage@5e025e70]" name="tearDown" is-config="true" duration-ms="356" started-at="2017-10-31T10:50:47Z" finished-at="2017-10-31T10:50:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickMCar status=SUCCESS method=VerifyFooterPage.ClickMCar()[pri:0, instance:testcases.VerifyFooterPage@5e025e70] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickHFCLLC()[pri:0, instance:testcases.VerifyFooterPage@5e025e70]" name="ClickHFCLLC" duration-ms="410" started-at="2017-10-31T10:50:48Z" description="This method will click on HFC Acceptance, LLC" finished-at="2017-10-31T10:50:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickHFCLLC -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyFooterPage@5e025e70]" name="tearDown" is-config="true" duration-ms="456" started-at="2017-10-31T10:50:48Z" finished-at="2017-10-31T10:50:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickHFCLLC status=SUCCESS method=VerifyFooterPage.ClickHFCLLC()[pri:0, instance:testcases.VerifyFooterPage@5e025e70] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="PressRelease()[pri:0, instance:testcases.VerifyFooterPage@5e025e70]" name="PressRelease" duration-ms="190" started-at="2017-10-31T10:50:49Z" description="This method will click on Press Release" finished-at="2017-10-31T10:50:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PressRelease -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyFooterPage@5e025e70]" name="tearDown" is-config="true" duration-ms="406" started-at="2017-10-31T10:50:49Z" finished-at="2017-10-31T10:50:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=PressRelease status=SUCCESS method=VerifyFooterPage.PressRelease()[pri:0, instance:testcases.VerifyFooterPage@5e025e70] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:testcases.VerifyFooterPage@5e025e70]" name="closebrowser" is-config="true" duration-ms="0" started-at="2017-10-31T10:50:49Z" finished-at="2017-10-31T10:50:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- testcases.VerifyFooterPage -->
+      <class name="testcases.VerifyClaimsPage">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:testcases.VerifyClaimsPage@2c8d66b2]" name="setUP" is-config="true" duration-ms="13108" started-at="2017-10-31T10:50:16Z" finished-at="2017-10-31T10:50:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:testcases.VerifyFooterPage@5e025e70]" name="setUP" is-config="true" duration-ms="9679" started-at="2017-10-31T10:50:29Z" finished-at="2017-10-31T10:50:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="ClickClaims()[pri:0, instance:testcases.VerifyClaimsPage@2c8d66b2]" name="ClickClaims" duration-ms="141" started-at="2017-10-31T10:50:39Z" description="This method will initiate the class Object for Home" finished-at="2017-10-31T10:50:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickClaims -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyClaimsPage@2c8d66b2]" name="tearDown" is-config="true" duration-ms="1111" started-at="2017-10-31T10:50:39Z" finished-at="2017-10-31T10:50:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickClaims status=SUCCESS method=VerifyClaimsPage.ClickClaims()[pri:0, instance:testcases.VerifyClaimsPage@2c8d66b2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="SearchPolicyPrefix()[pri:0, instance:testcases.VerifyClaimsPage@2c8d66b2]" name="SearchPolicyPrefix" duration-ms="108" started-at="2017-10-31T10:50:40Z" description="This method will Click Search Prefix and enter the Prefix " finished-at="2017-10-31T10:50:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchPolicyPrefix -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyClaimsPage@2c8d66b2]" name="tearDown" is-config="true" duration-ms="354" started-at="2017-10-31T10:50:40Z" finished-at="2017-10-31T10:50:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SearchPolicyPrefix status=SUCCESS method=VerifyClaimsPage.SearchPolicyPrefix()[pri:0, instance:testcases.VerifyClaimsPage@2c8d66b2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickStartClaims()[pri:0, instance:testcases.VerifyClaimsPage@2c8d66b2]" name="ClickStartClaims" duration-ms="2603" started-at="2017-10-31T10:50:41Z" description="This method will Click on the Start a Claim button" finished-at="2017-10-31T10:50:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickStartClaims -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyClaimsPage@2c8d66b2]" name="tearDown" is-config="true" duration-ms="1015" started-at="2017-10-31T10:50:43Z" finished-at="2017-10-31T10:50:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickStartClaims status=SUCCESS method=VerifyClaimsPage.ClickStartClaims()[pri:0, instance:testcases.VerifyClaimsPage@2c8d66b2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="claimform(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.VerifyClaimsPage@2c8d66b2]" name="claimform" duration-ms="670" started-at="2017-10-31T10:50:47Z" description="This method will fill the First line of the form" data-provider="reportclaimData" finished-at="2017-10-31T10:50:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Claimant]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123Test]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Nowcom]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- claimform -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyClaimsPage@2c8d66b2]" name="tearDown" is-config="true" duration-ms="622" started-at="2017-10-31T10:50:48Z" finished-at="2017-10-31T10:50:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=claimform status=SUCCESS method=VerifyClaimsPage.claimform(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.VerifyClaimsPage@2c8d66b2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="fillPersonalinfo(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.VerifyClaimsPage@2c8d66b2]" name="fillPersonalinfo" duration-ms="359" started-at="2017-10-31T10:50:48Z" description="This method will fill the Personal Info" data-provider="PersonalinfoData" finished-at="2017-10-31T10:50:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jon]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Consumer]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[123 Birsch St Burbank, California]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1234567890]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[test@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillPersonalinfo -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyClaimsPage@2c8d66b2]" name="tearDown" is-config="true" duration-ms="517" started-at="2017-10-31T10:50:49Z" finished-at="2017-10-31T10:50:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=fillPersonalinfo status=SUCCESS method=VerifyClaimsPage.fillPersonalinfo(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.VerifyClaimsPage@2c8d66b2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="fillAccidentinfo(java.lang.String, java.lang.String)[pri:0, instance:testcases.VerifyClaimsPage@2c8d66b2]" name="fillAccidentinfo" duration-ms="354" started-at="2017-10-31T10:50:49Z" description="This method will fill the Accidental details" data-provider="AccidentdetailsData" finished-at="2017-10-31T10:50:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Colorado]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TestAddress123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillAccidentinfo -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyClaimsPage@2c8d66b2]" name="tearDown" is-config="true" duration-ms="493" started-at="2017-10-31T10:50:49Z" finished-at="2017-10-31T10:50:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=fillAccidentinfo status=SUCCESS method=VerifyClaimsPage.fillAccidentinfo(java.lang.String, java.lang.String)[pri:0, instance:testcases.VerifyClaimsPage@2c8d66b2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="fillInsuredvehicleinfo(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.VerifyClaimsPage@2c8d66b2]" name="fillInsuredvehicleinfo" duration-ms="390" started-at="2017-10-31T10:50:50Z" description="This method will fill Insure Vehicle details" data-provider="InsuredVehicleinfoData" finished-at="2017-10-31T10:50:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[123Test]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2015]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Honda]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Accord]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[I don’t know anything.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillInsuredvehicleinfo -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyClaimsPage@2c8d66b2]" name="tearDown" is-config="true" duration-ms="628" started-at="2017-10-31T10:50:50Z" finished-at="2017-10-31T10:50:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=fillInsuredvehicleinfo status=SUCCESS method=VerifyClaimsPage.fillInsuredvehicleinfo(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testcases.VerifyClaimsPage@2c8d66b2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="clickCloseclaimreport()[pri:0, instance:testcases.VerifyClaimsPage@2c8d66b2]" name="clickCloseclaimreport" duration-ms="0" started-at="2017-10-31T10:50:51Z" finished-at="2017-10-31T10:50:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickCloseclaimreport -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyClaimsPage@2c8d66b2]" name="tearDown" is-config="true" duration-ms="462" started-at="2017-10-31T10:50:51Z" finished-at="2017-10-31T10:50:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickCloseclaimreport status=SUCCESS method=VerifyClaimsPage.clickCloseclaimreport()[pri:0, instance:testcases.VerifyClaimsPage@2c8d66b2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:testcases.VerifyClaimsPage@2c8d66b2]" name="closebrowser" is-config="true" duration-ms="1" started-at="2017-10-31T10:50:52Z" finished-at="2017-10-31T10:50:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- testcases.VerifyClaimsPage -->
+    </test> <!-- Claim and Footer -->
+  </suite> <!-- Suite1 -->
+  <suite name="Suite2" duration-ms="133186" started-at="2017-10-31T17:50:52Z" finished-at="2017-10-31T17:53:05Z">
+    <groups>
+    </groups>
+    <test name="Home and Products" duration-ms="133186" started-at="2017-10-31T17:50:52Z" finished-at="2017-10-31T17:53:05Z">
+      <class name="testcases.VerifyProductsPage">
+        <test-method status="PASS" signature="ClickProductslink()[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="ClickProductslink" duration-ms="551" started-at="2017-10-31T10:52:34Z" finished-at="2017-10-31T10:52:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickProductslink -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="tearDown" is-config="true" duration-ms="1699" started-at="2017-10-31T10:52:35Z" finished-at="2017-10-31T10:52:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickProductslink status=SUCCESS method=VerifyProductsPage.ClickProductslink()[pri:0, instance:testcases.VerifyProductsPage@7a79be86] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickCommercialAutomotivelink()[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="ClickCommercialAutomotivelink" duration-ms="110" started-at="2017-10-31T10:52:36Z" finished-at="2017-10-31T10:52:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickCommercialAutomotivelink -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="tearDown" is-config="true" duration-ms="570" started-at="2017-10-31T10:52:36Z" finished-at="2017-10-31T10:52:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickCommercialAutomotivelink status=SUCCESS method=VerifyProductsPage.ClickCommercialAutomotivelink()[pri:0, instance:testcases.VerifyProductsPage@7a79be86] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickTruckingTransportation()[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="ClickTruckingTransportation" duration-ms="49" started-at="2017-10-31T10:52:37Z" finished-at="2017-10-31T10:52:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickTruckingTransportation -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="tearDown" is-config="true" duration-ms="396" started-at="2017-10-31T10:52:37Z" finished-at="2017-10-31T10:52:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickTruckingTransportation status=SUCCESS method=VerifyProductsPage.ClickTruckingTransportation()[pri:0, instance:testcases.VerifyProductsPage@7a79be86] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickAutomotiveDealership()[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="ClickAutomotiveDealership" duration-ms="133" started-at="2017-10-31T10:52:37Z" finished-at="2017-10-31T10:52:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickAutomotiveDealership -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="tearDown" is-config="true" duration-ms="384" started-at="2017-10-31T10:52:38Z" finished-at="2017-10-31T10:52:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickAutomotiveDealership status=SUCCESS method=VerifyProductsPage.ClickAutomotiveDealership()[pri:0, instance:testcases.VerifyProductsPage@7a79be86] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickGuranteedAssetProtection()[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="ClickGuranteedAssetProtection" duration-ms="44" started-at="2017-10-31T10:52:38Z" finished-at="2017-10-31T10:52:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickGuranteedAssetProtection -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="tearDown" is-config="true" duration-ms="2162" started-at="2017-10-31T10:52:38Z" finished-at="2017-10-31T10:52:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickGuranteedAssetProtection status=SUCCESS method=VerifyProductsPage.ClickGuranteedAssetProtection()[pri:0, instance:testcases.VerifyProductsPage@7a79be86] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickNonFranAutoDealerships()[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="ClickNonFranAutoDealerships" duration-ms="67" started-at="2017-10-31T10:52:40Z" finished-at="2017-10-31T10:52:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickNonFranAutoDealerships -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="tearDown" is-config="true" duration-ms="941" started-at="2017-10-31T10:52:40Z" finished-at="2017-10-31T10:52:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickNonFranAutoDealerships status=SUCCESS method=VerifyProductsPage.ClickNonFranAutoDealerships()[pri:0, instance:testcases.VerifyProductsPage@7a79be86] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickAutomotiveRental()[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="ClickAutomotiveRental" duration-ms="39" started-at="2017-10-31T10:52:41Z" finished-at="2017-10-31T10:52:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickAutomotiveRental -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="tearDown" is-config="true" duration-ms="326" started-at="2017-10-31T10:52:41Z" finished-at="2017-10-31T10:52:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickAutomotiveRental status=SUCCESS method=VerifyProductsPage.ClickAutomotiveRental()[pri:0, instance:testcases.VerifyProductsPage@7a79be86] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickFleetLiability()[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="ClickFleetLiability" duration-ms="39" started-at="2017-10-31T10:52:42Z" finished-at="2017-10-31T10:52:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickFleetLiability -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="tearDown" is-config="true" duration-ms="347" started-at="2017-10-31T10:52:42Z" finished-at="2017-10-31T10:52:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickFleetLiability status=SUCCESS method=VerifyProductsPage.ClickFleetLiability()[pri:0, instance:testcases.VerifyProductsPage@7a79be86] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickPersonalAccidentProtection()[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="ClickPersonalAccidentProtection" duration-ms="40" started-at="2017-10-31T10:52:42Z" finished-at="2017-10-31T10:52:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickPersonalAccidentProtection -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="tearDown" is-config="true" duration-ms="257" started-at="2017-10-31T10:52:42Z" finished-at="2017-10-31T10:52:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickPersonalAccidentProtection status=SUCCESS method=VerifyProductsPage.ClickPersonalAccidentProtection()[pri:0, instance:testcases.VerifyProductsPage@7a79be86] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickPersonalEffectsCoverage()[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="ClickPersonalEffectsCoverage" duration-ms="34" started-at="2017-10-31T10:52:42Z" finished-at="2017-10-31T10:52:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickPersonalEffectsCoverage -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="tearDown" is-config="true" duration-ms="304" started-at="2017-10-31T10:52:42Z" finished-at="2017-10-31T10:52:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickPersonalEffectsCoverage status=SUCCESS method=VerifyProductsPage.ClickPersonalEffectsCoverage()[pri:0, instance:testcases.VerifyProductsPage@7a79be86] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickRenterLiabilityProtection()[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="ClickRenterLiabilityProtection" duration-ms="60" started-at="2017-10-31T10:52:43Z" finished-at="2017-10-31T10:52:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickRenterLiabilityProtection -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="tearDown" is-config="true" duration-ms="320" started-at="2017-10-31T10:52:43Z" finished-at="2017-10-31T10:52:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickRenterLiabilityProtection status=SUCCESS method=VerifyProductsPage.ClickRenterLiabilityProtection()[pri:0, instance:testcases.VerifyProductsPage@7a79be86] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickSupplementalLiabilityInsurance()[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="ClickSupplementalLiabilityInsurance" duration-ms="41" started-at="2017-10-31T10:52:43Z" finished-at="2017-10-31T10:52:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickSupplementalLiabilityInsurance -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="tearDown" is-config="true" duration-ms="346" started-at="2017-10-31T10:52:43Z" finished-at="2017-10-31T10:52:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickSupplementalLiabilityInsurance status=SUCCESS method=VerifyProductsPage.ClickSupplementalLiabilityInsurance()[pri:0, instance:testcases.VerifyProductsPage@7a79be86] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickManagementLiabilityFinancial()[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="ClickManagementLiabilityFinancial" duration-ms="33" started-at="2017-10-31T10:52:43Z" finished-at="2017-10-31T10:52:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickManagementLiabilityFinancial -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="tearDown" is-config="true" duration-ms="310" started-at="2017-10-31T10:52:43Z" finished-at="2017-10-31T10:52:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickManagementLiabilityFinancial status=SUCCESS method=VerifyProductsPage.ClickManagementLiabilityFinancial()[pri:0, instance:testcases.VerifyProductsPage@7a79be86] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickEquityProtectionlink()[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="ClickEquityProtectionlink" duration-ms="35" started-at="2017-10-31T10:52:44Z" finished-at="2017-10-31T10:52:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickEquityProtectionlink -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="tearDown" is-config="true" duration-ms="517" started-at="2017-10-31T10:52:44Z" finished-at="2017-10-31T10:52:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickEquityProtectionlink status=SUCCESS method=VerifyProductsPage.ClickEquityProtectionlink()[pri:0, instance:testcases.VerifyProductsPage@7a79be86] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickMortalityProtection()[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="ClickMortalityProtection" duration-ms="33" started-at="2017-10-31T10:52:44Z" finished-at="2017-10-31T10:52:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickMortalityProtection -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="tearDown" is-config="true" duration-ms="398" started-at="2017-10-31T10:52:44Z" finished-at="2017-10-31T10:52:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickMortalityProtection status=SUCCESS method=VerifyProductsPage.ClickMortalityProtection()[pri:0, instance:testcases.VerifyProductsPage@7a79be86] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickMortgageServiceProviderEO()[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="ClickMortgageServiceProviderEO" duration-ms="42" started-at="2017-10-31T10:52:45Z" finished-at="2017-10-31T10:52:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickMortgageServiceProviderEO -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="tearDown" is-config="true" duration-ms="453" started-at="2017-10-31T10:52:45Z" finished-at="2017-10-31T10:52:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickMortgageServiceProviderEO status=SUCCESS method=VerifyProductsPage.ClickMortgageServiceProviderEO()[pri:0, instance:testcases.VerifyProductsPage@7a79be86] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickSuretyBonds()[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="ClickSuretyBonds" duration-ms="36" started-at="2017-10-31T10:52:45Z" finished-at="2017-10-31T10:52:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickSuretyBonds -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="tearDown" is-config="true" duration-ms="293" started-at="2017-10-31T10:52:45Z" finished-at="2017-10-31T10:52:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickSuretyBonds status=SUCCESS method=VerifyProductsPage.ClickSuretyBonds()[pri:0, instance:testcases.VerifyProductsPage@7a79be86] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="closebrowser" is-config="true" duration-ms="0" started-at="2017-10-31T10:52:46Z" finished-at="2017-10-31T10:52:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- testcases.VerifyProductsPage -->
+      <class name="testcases.VerifyHomePage">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:testcases.VerifyHomePage@b684286]" name="setUP" is-config="true" duration-ms="29225" started-at="2017-10-31T10:50:52Z" finished-at="2017-10-31T10:51:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:testcases.VerifyManagementPage@34ce8af7]" name="setUP" is-config="true" duration-ms="34329" started-at="2017-10-31T10:51:21Z" finished-at="2017-10-31T10:51:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:testcases.VerifyProductsPage@7a79be86]" name="setUP" is-config="true" duration-ms="38896" started-at="2017-10-31T10:51:55Z" finished-at="2017-10-31T10:52:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="testHomePage()[pri:0, instance:testcases.VerifyHomePage@b684286]" name="testHomePage" duration-ms="398" started-at="2017-10-31T10:52:34Z" finished-at="2017-10-31T10:52:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomePage -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyHomePage@b684286]" name="tearDown" is-config="true" duration-ms="600" started-at="2017-10-31T10:52:35Z" finished-at="2017-10-31T10:52:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testHomePage status=SUCCESS method=VerifyHomePage.testHomePage()[pri:0, instance:testcases.VerifyHomePage@b684286] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickKMIS_IMG()[pri:0, instance:testcases.VerifyHomePage@b684286]" name="ClickKMIS_IMG" duration-ms="829" started-at="2017-10-31T10:52:35Z" finished-at="2017-10-31T10:52:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickKMIS_IMG -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyHomePage@b684286]" name="tearDown" is-config="true" duration-ms="194" started-at="2017-10-31T10:52:36Z" finished-at="2017-10-31T10:52:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickKMIS_IMG status=SUCCESS method=VerifyHomePage.ClickKMIS_IMG()[pri:0, instance:testcases.VerifyHomePage@b684286] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:testcases.VerifyHomePage@b684286]" name="closebrowser" is-config="true" duration-ms="28710" started-at="2017-10-31T10:52:36Z" finished-at="2017-10-31T10:53:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- testcases.VerifyHomePage -->
+      <class name="testcases.VerifyManagementPage">
+        <test-method status="PASS" signature="ClickManagementlink()[pri:0, instance:testcases.VerifyManagementPage@34ce8af7]" name="ClickManagementlink" duration-ms="447" started-at="2017-10-31T10:52:34Z" finished-at="2017-10-31T10:52:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickManagementlink -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyManagementPage@34ce8af7]" name="tearDown" is-config="true" duration-ms="797" started-at="2017-10-31T10:52:35Z" finished-at="2017-10-31T10:52:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickManagementlink status=SUCCESS method=VerifyManagementPage.ClickManagementlink()[pri:0, instance:testcases.VerifyManagementPage@34ce8af7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickDonHankeyimg()[pri:0, instance:testcases.VerifyManagementPage@34ce8af7]" name="ClickDonHankeyimg" duration-ms="4201" started-at="2017-10-31T10:52:35Z" description="This Test case will click on the Don Hankey Image" finished-at="2017-10-31T10:52:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickDonHankeyimg -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyManagementPage@34ce8af7]" name="tearDown" is-config="true" duration-ms="655" started-at="2017-10-31T10:52:40Z" finished-at="2017-10-31T10:52:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickDonHankeyimg status=SUCCESS method=VerifyManagementPage.ClickDonHankeyimg()[pri:0, instance:testcases.VerifyManagementPage@34ce8af7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickAmitShahimg()[pri:0, instance:testcases.VerifyManagementPage@34ce8af7]" name="ClickAmitShahimg" duration-ms="1136" started-at="2017-10-31T10:52:40Z" description="This Test case will click on the Amit Shah Image" finished-at="2017-10-31T10:52:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickAmitShahimg -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyManagementPage@34ce8af7]" name="tearDown" is-config="true" duration-ms="369" started-at="2017-10-31T10:52:41Z" finished-at="2017-10-31T10:52:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickAmitShahimg status=SUCCESS method=VerifyManagementPage.ClickAmitShahimg()[pri:0, instance:testcases.VerifyManagementPage@34ce8af7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickDavidKeum()[pri:0, instance:testcases.VerifyManagementPage@34ce8af7]" name="ClickDavidKeum" duration-ms="1092" started-at="2017-10-31T10:52:42Z" description="This Test case will click on the David Keum Image" finished-at="2017-10-31T10:52:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickDavidKeum -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyManagementPage@34ce8af7]" name="tearDown" is-config="true" duration-ms="564" started-at="2017-10-31T10:52:43Z" finished-at="2017-10-31T10:52:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickDavidKeum status=SUCCESS method=VerifyManagementPage.ClickDavidKeum()[pri:0, instance:testcases.VerifyManagementPage@34ce8af7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickJohnRygh()[pri:0, instance:testcases.VerifyManagementPage@34ce8af7]" name="ClickJohnRygh" duration-ms="1074" started-at="2017-10-31T10:52:43Z" description="This Test case will click on the John Rygn Image" finished-at="2017-10-31T10:52:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickJohnRygh -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyManagementPage@34ce8af7]" name="tearDown" is-config="true" duration-ms="350" started-at="2017-10-31T10:52:44Z" finished-at="2017-10-31T10:52:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickJohnRygh status=SUCCESS method=VerifyManagementPage.ClickJohnRygh()[pri:0, instance:testcases.VerifyManagementPage@34ce8af7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickAlexandraBelaya()[pri:0, instance:testcases.VerifyManagementPage@34ce8af7]" name="ClickAlexandraBelaya" duration-ms="680" started-at="2017-10-31T10:52:45Z" description="This Test case will click on the Alexandra Belaya Image" finished-at="2017-10-31T10:52:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickAlexandraBelaya -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyManagementPage@34ce8af7]" name="tearDown" is-config="true" duration-ms="349" started-at="2017-10-31T10:52:45Z" finished-at="2017-10-31T10:52:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickAlexandraBelaya status=SUCCESS method=VerifyManagementPage.ClickAlexandraBelaya()[pri:0, instance:testcases.VerifyManagementPage@34ce8af7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="ClickVanceOwnber()[pri:0, instance:testcases.VerifyManagementPage@34ce8af7]" name="ClickVanceOwnber" duration-ms="1085" started-at="2017-10-31T10:52:46Z" description="This Test case will click on the Vance Ownber Image" finished-at="2017-10-31T10:52:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickVanceOwnber -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:testcases.VerifyManagementPage@34ce8af7]" name="tearDown" is-config="true" duration-ms="434" started-at="2017-10-31T10:52:47Z" finished-at="2017-10-31T10:52:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickVanceOwnber status=SUCCESS method=VerifyManagementPage.ClickVanceOwnber()[pri:0, instance:testcases.VerifyManagementPage@34ce8af7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.VerifyManagementPage -->
+    </test> <!-- Home and Products -->
+  </suite> <!-- Suite2 -->
+</testng-results>
